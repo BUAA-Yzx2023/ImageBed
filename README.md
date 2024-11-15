@@ -1,2 +1,2 @@
 # ImageBed
-ImageBed
+图床
